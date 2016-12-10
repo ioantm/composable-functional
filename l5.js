@@ -23,4 +23,8 @@ const First = x => ({
 
 const result = First('ala').concat(First('bala'));
 
-console.log(result);
+module.exports = {
+  All,
+  First,
+  Sum
+};

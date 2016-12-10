@@ -1,0 +1,27 @@
+{
+  "name": "composable-functional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "l1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioantm/composable-functional.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioantm/composable-functional/issues"
+  },
+  "homepage": "https://github.com/ioantm/composable-functional#readme",
+  "dependencies": {
+    "data.task": "^3.1.1",
+    "folktale": "^2.0.0-alpha2",
+    "immutable": "^3.8.1",
+    "immutable-ext": "^1.0.8",
+    "metamagical-interface": "^3.4.0",
+    "metamagical-repl": "0.3.x"
+  }
+}
