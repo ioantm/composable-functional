@@ -7,6 +7,8 @@
 
 const Box = x => 
 ({
+  of: x => Box(x),
+  ap: functor => functor.map(x),
   map: f => Box(f(x)),
   fold: f => f(x),
   inspect: () => `Box(${x})`,

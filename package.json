@@ -19,6 +19,7 @@
   "dependencies": {
     "data.task": "^3.1.1",
     "folktale": "^2.0.0-alpha2",
+    "futurize": "^1.0.2",
     "immutable": "^3.8.1",
     "immutable-ext": "^1.0.8",
     "metamagical-interface": "^3.4.0",
